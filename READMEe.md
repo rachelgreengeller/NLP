@@ -1,3 +1,12 @@
+---
+
+## 🧑‍💻 Made by Anisha Biswas  
+🌐 [GitHub](https://github.com/rachelgreengeller) | 💼 [LinkedIn](https://www.linkedin.com/in/anisha-biswas-503359243/)
+
+This project is part of my NLP journey — exploring how machines understand and predict human language 🧠✨
+
+
+
 # 🔮 NLP Next-Word Predictor
 
 An interactive language modeling project that predicts the next word(s) based on user input using a **Bigram Model**.
